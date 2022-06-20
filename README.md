@@ -10,5 +10,5 @@ How can we expect to make a positive change in the world if we cannot first infl
     
 
 
-![Hi]https://github.com/[DIsaacman]/[about]/blob/[main]/Dan Isaacman - New Chapter.png?raw=true
+![Hi](https://github.com/DIsaacman/About/blob/main/Dan%20Isaacman%20-%20New%20Chapter.png)  Hi
 
